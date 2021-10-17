@@ -1,5 +1,8 @@
 # Customer Segmentation
 In this project, I will be performing an unsupervised clustering of data on the customer's records from a groceries firm's database. Customer segmentation is the practice of separating customers into groups that reflect similarities among customers in each cluster. I will divide customers into segments to optimize the significance of each customer to the business. To modify products according to distinct needs and behaviours of the customers. It also helps the business to cater to the concerns of different types of customers.
+
+https://blog-assets.freshworks.com/freshdesk/wp-content/uploads/2020/06/18152022/Blog_Banner_v1-01-1024x410.jpg
+
 ## About the data
 
 ### People
@@ -31,7 +34,7 @@ AcceptedCmp4: 1 if customer accepted the offer in the 4th campaign, 0 otherwise
 AcceptedCmp5: 1 if customer accepted the offer in the 5th campaign, 0 otherwise
 Response: 1 if customer accepted the offer in the last campaign, 0 otherwise
 
-###Place
+### Place
 NumWebPurchases: Number of purchases made through the company’s web site
 NumCatalogPurchases: Number of purchases made using a catalogue
 NumStorePurchases: Number of purchases made directly in stores
