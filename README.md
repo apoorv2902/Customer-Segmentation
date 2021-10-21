@@ -1,5 +1,5 @@
 # Customer Segmentation
-In this project, I will be performing unsupervised clustering of data on the customer's records from a supermarket database. Customer segmentation is the practice of separating customers into groups that reflect similarities among customers in each cluster. I will divide customers into segments to optimize the significance of each customer to the business. To modify products according to distinct needs and behaviours of the customers. It also helps the business to cater to the concerns of different types of customers.
+In this project, I will be performed unsupervised clustering of data on the customer's records from a supermarket database. Customer segmentation is the practice of separating customers into groups that reflect similarities among customers in each cluster. I divided customers into segments to optimize the significance of each customer to the business. To modify products according to distinct needs and behaviours of the customers. It also helps the business to cater to the concerns of different types of customers.
 
 ![alt text](https://blog-assets.freshworks.com/freshdesk/wp-content/uploads/2020/06/18152022/Blog_Banner_v1-01-1024x410.jpg)
 ## About the data
@@ -38,3 +38,25 @@ In this project, I will be performing unsupervised clustering of data on the cus
 * NumCatalogPurchases: Number of purchases made using a catalogue
 * NumStorePurchases: Number of purchases made directly in stores
 * NumWebVisitsMonth: Number of visits to company’s web site in the last month
+
+## Clustering
+![alt text](graph1.png) 
+
+## Conclusion
+### 1. Cluster 0:-
+* They have done post-graduation.
+* Most of them didn't accepted the campaign offer.
+* Thier mean income is low and also spent low on purchasing.
+* Mean age is 50.
+### 2. Cluster 1:-
+* They have done post-graduation.
+* Most of them accepted the campaign offer.
+* Thier mean income is highest and also spent the most on purchasing.
+* Mean age is 55.
+### 3. Cluster 2:-
+* They have done under-graduation.
+* Most of them didn't accepted the campaign offer.
+* Thier mean income is lowest and also spent least on purchasing.
+* Mean age is 43.
+ 
+![alt text](graph2.png)
